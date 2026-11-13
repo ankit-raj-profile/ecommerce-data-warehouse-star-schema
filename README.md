@@ -14,6 +14,9 @@ The objective is to organize sales data into a Star Schema for structured report
 ## Database Design
 
 The warehouse contains five tables:
+## Star Schema Diagram
+
+![E-Commerce Star Schema](star_schema.png)
 
 **Dimension Tables**
 - dim_customer
